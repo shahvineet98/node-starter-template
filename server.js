@@ -1,6 +1,7 @@
+// Vineet Shah
+
 'use strict';
 
-var config = require("./config");
 var express = require("express");
 var path = require('path');
 var compress = require('compression');
